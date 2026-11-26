@@ -1,2 +1,2 @@
-# TomaTuCurso
-Tienda estática inicial. Abrir index.html para probar. Configurar WHATSAPP con número internacional sin +, revisar precios y publicar en un hosting estático. No incluye pagos automáticos ni aula virtual. Los precios son provisionales.
+# PASIR Studio Online V1
+Editor de apariencia. Activar Pages desde main / root. Token de alcance limitado, solo en memoria. No guardar credenciales. Vista previa ilustrativa. El historial anterior permanece en Git.
